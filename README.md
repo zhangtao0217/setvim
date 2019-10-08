@@ -1,0 +1,2 @@
+# setvim
+configuration of vim
